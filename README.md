@@ -3,10 +3,15 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SFXbiel&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SFXbiel&layout=compact)
 
-* Sou Cristão e estou em evolução no cargo de Desenvolvedor Junior (Full-Stack), em busca de atingir o ponto máximo da programação. 
-* Proucuro estar antenado no universo da Programação e no meio Digital. 
-* De fato, a programação esta me mostrando novos horizontes e desejo conhece-los logo, se assim Deus quiser.
+## About me
+* Sou Cristão e estou em evolução no cargo de Desenvolvedor Junior (Full-Stack), em busca de atingir o ponto máximo da programação.
+* I am a Christian and I am evolving in the role of Junior Full-Stack Developer, striving to reach the pinnacle of programming.
+* Proucuro estar antenado no universo da Programação e no meio Digital. De fato, a programação esta me mostrando novos horizontes e desejo conhece-los logo, se assim Deus quiser.
+* I strive to stay tuned into the world of programming and the digital sphere. Indeed, programming is showing me new horizons, and I wish to explore them soon, God willing.
 * No momento estou estudando Programação, e idiomas, como : inglês, italiano e coreano, para abranger oportunidades no exterior.
+* At the moment, I am studying programming and languages such as English, Italian, and Korean to broaden opportunities abroad.
+* Bootcamp Full Stack Software Development at @cubosacademy;
+* 22 years old 
   
  ## Aprendizados
   <div style="display: inline_block"><br>
