@@ -1,12 +1,13 @@
 ## Opa, me chamo Gabriel
-Sou Cristão e estou em evolução no cargo de Desenvolvedor Junior (Full-Stack), em busca de atingir o ponto máximo da programação. 
-Proucuro estar antenado no universo da Programação e no meio Digital. 
-De fato, a programação esta me mostrando novos horizontes e desejo conhece-los logo, se assim Deus quiser.
-No momento estou estudando Programação, e idiomas, como : inglês, italiano e coreano, para abranger oportunidades no exterior. 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SFXbiel&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SFXbiel&layout=compact)
 
+* Sou Cristão e estou em evolução no cargo de Desenvolvedor Junior (Full-Stack), em busca de atingir o ponto máximo da programação. 
+* Proucuro estar antenado no universo da Programação e no meio Digital. 
+* De fato, a programação esta me mostrando novos horizontes e desejo conhece-los logo, se assim Deus quiser.
+* No momento estou estudando Programação, e idiomas, como : inglês, italiano e coreano, para abranger oportunidades no exterior.
+  
  ## Aprendizados
   <div style="display: inline_block"><br>
   <img align="center" alt="gabri-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
